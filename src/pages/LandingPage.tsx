@@ -192,7 +192,7 @@ const Hero = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 1 }}
         >
-          <span className="gradient-text font-sans text-center text-[48px] md:text-[70px] leading-tight">{"「声音玩家"}</span>
+          <span className="gradient-text font-sans text-center text-[48px] md:text-[70px] leading-tight">{"「声音玩家」"}</span>
           <span className="gradient-text font-sans text-center text-[48px] md:text-[70px] leading-tight">{"让声音更鲜活"}</span>
         </motion.h1>
         <motion.p 
