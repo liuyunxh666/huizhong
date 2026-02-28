@@ -644,14 +644,14 @@ const VoiceCloningSection = () => {
 // Partners Section
 const PartnersSection = () => {
   const partners = [
-    "https://miaoda-site-img.cdn.bcebos.com/images/baidu_image_search_fe252d52-548b-4fe1-9702-edac1b08da11.jpg",
-    "https://miaoda-site-img.cdn.bcebos.com/images/baidu_image_search_6f5ff41a-48db-4664-8289-c655f1a00c9b.jpg",
-    "https://miaoda-site-img.cdn.bcebos.com/images/baidu_image_search_5853b0ff-433a-4a58-bf9a-3f6fe1539125.jpg",
-    "https://miaoda-site-img.cdn.bcebos.com/images/baidu_image_search_1953d025-dbc8-4c2c-aedf-df43fb138e16.jpg",
-    "https://miaoda-site-img.cdn.bcebos.com/images/baidu_image_search_d9df87b8-b9ee-41af-8c0f-4eeab7971215.jpg",
-    "https://miaoda-site-img.cdn.bcebos.com/images/baidu_image_search_34f25d1e-632e-497c-9074-4f895956dba4.jpg",
-    "https://miaoda-site-img.cdn.bcebos.com/images/baidu_image_search_24162246-9c0c-4f1f-b8de-4b0b96bf2374.jpg",
-    "https://miaoda-site-img.cdn.bcebos.com/images/baidu_image_search_fcc80b4b-e31b-486c-bea0-f9e6b9664d89.jpg"
+    "/images/partners/01.png",
+    "/images/partners/02.png",
+    "/images/partners/03.png",
+    "/images/partners/04.png",
+    "/images/partners/05.png",
+    "/images/partners/06.png",
+    "/images/partners/07.png",
+    "/images/partners/08.png"
   ];
 
   return (
