@@ -322,7 +322,7 @@ const AIDubbingSection = () => {
             className="relative aspect-[21/9] rounded-2xl md:rounded-3xl overflow-hidden glass-card border-none group"
           >
             <img 
-              src="/images/partners/left_01.png" 
+              src="/images/partners/right_02.png" 
               alt="专业配音制作" 
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
             />
@@ -338,7 +338,7 @@ const AIDubbingSection = () => {
             className="relative aspect-[21/9] rounded-2xl md:rounded-3xl overflow-hidden glass-card border-none group"
           >
             <img 
-              src="/images/partners/right_02.png" 
+              src="/images/partners/left_01.png" 
               alt="音频数字化技术" 
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
             />
