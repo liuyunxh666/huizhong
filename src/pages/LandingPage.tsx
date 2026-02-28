@@ -322,7 +322,7 @@ const AIDubbingSection = () => {
             className="relative aspect-[21/9] rounded-2xl md:rounded-3xl overflow-hidden glass-card border-none group"
           >
             <img 
-              src="https://miaoda-site-img.cdn.bcebos.com/images/baidu_image_search_339f8b8d-b47a-4b6b-9a77-a82751793f13.jpg" 
+              src="/images/partners/left_01.png" 
               alt="专业配音制作" 
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
             />
@@ -338,7 +338,7 @@ const AIDubbingSection = () => {
             className="relative aspect-[21/9] rounded-2xl md:rounded-3xl overflow-hidden glass-card border-none group"
           >
             <img 
-              src="https://miaoda-site-img.cdn.bcebos.com/images/MiaoTu_91268205-508a-40ef-865b-f6b825f5a470.jpg" 
+              src="/images/partners/right_02.png" 
               alt="音频数字化技术" 
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
             />
@@ -459,7 +459,7 @@ const HumanDubbingSection = () => {
 
         {/* Voice Actors */}
         <div className="mb-16 md:mb-24 px-2 md:px-0">
-          <h3 className="text-2xl md:text-4xl font-bold text-center mb-8 md:mb-12">声音大咖爱好者、玩家入驻</h3>
+          <h3 className="text-2xl md:text-4xl font-bold text-center mb-8 md:mb-12">顶尖配音员声音大咖入驻</h3>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-3 md:gap-6">
             {actors.map((actor, index) => (
               <motion.div
